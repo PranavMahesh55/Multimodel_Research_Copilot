@@ -1,0 +1,11 @@
+langchain==1.2.14
+langchain-classic==1.0.3
+langchain-community==0.4.1
+langchain-openai==1.1.12
+langchain-text-splitters
+langchain-pinecone
+python-dotenv
+pypdf
+pinecone==7.0.2
+numpy>=2,<3
+pydantic>=2.7,<3
